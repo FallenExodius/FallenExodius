@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FallenExodius
-- 👀 I’m interested in html , css , Js ( JavaScript)
+- 👀 I’m interested in html , css , Js 
 - 🌱 I’m currently learning  Css and JavaScript
 - 💞️ I’m looking to collaborate with My Friends
 - 📫 How to reach me Actually I dont searching offers !!!
